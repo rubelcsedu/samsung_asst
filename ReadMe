@@ -1,0 +1,7 @@
+1. MyApp2 is here the Android Project
+2. MyDBAccess.php is server side code for access database from remote. it will be placed in the following directory
+   Windows: WAMP, wamp->www ; XAMPP, xampp->www
+   Linux(Ubuntu): /var/www/html
+3. and some of databse and app screenshot are included.
+
+thanks.
