@@ -2,6 +2,6 @@
 2. MyAppDBAccess.php is server side code for access database from remote. it will be placed in the following directory
    Windows: WAMP, wamp->www ; XAMPP, xampp->www
    Linux(Ubuntu): /var/www/html
-3. and some of databse and app screenshot are included.
+3. and some of databse and app screenshots are also included.
 
 thanks.
