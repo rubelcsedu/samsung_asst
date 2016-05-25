@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="buttonText">save</string>
+    <string name="ageInputText">age</string>
+</resources>
